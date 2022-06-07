@@ -1,0 +1,47 @@
+body {
+    background-color:lightseagreen;
+
+}
+.picture{
+    width:30%;
+    height: 30%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.btn {
+    padding: 20px; 
+    color: white; 
+    font-weight: bold;
+    border-radius: 70%;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .btn-1{
+       background-color: rgb(223,130,184);
+  }
+  .btn-2{
+      background-color: rgb(223, 130, 184);
+  }
+  .btn-3{
+      background-color: rgb(223, 130, 184);
+  }
+h2{
+    color: deeppink;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    border-style: ridge;
+    border-color: lavender;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 45px    ;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
